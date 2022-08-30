@@ -2,4 +2,4 @@
 
 ![사용법](https://cdn.discordapp.com/attachments/861083535276507147/1014097818727743530/unknown.png)
 
-/code [오류  코드]
+/error [오류  코드]
